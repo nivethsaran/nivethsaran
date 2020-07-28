@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **nivethsaran/nivethsaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi, I'm Niveth, your friendly developer bear 👋🏽💻🐻
+
+
+I'm a software engineer who is passionate about developing android applications, coding and also open source. Some technologies I enjoy working with include Java, Kotlin, ReactJS, Flutter, Dart. I also love data visualization and analytics. 
