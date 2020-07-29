@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 ### Hi, I'm Niveth, your friendly developer bear 👋🏽💻🐻
 
 
-I'm a software engineer who is passionate about developing android applications, coding and also open source. Some technologies I enjoy working with include Java, Kotlin, ReactJS, Flutter, Dart. I also love data visualization and analytics. 
+<samp>I'm a software engineer who is passionate about developing android applications and competitive coding. Some technologies I enjoy working with include Java, Kotlin, ReactJS, Flutter, Dart. I also love data visualization and analytics.</samp>  
+
+<!-- <a href="https://dev.to/nivethsaran">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Niveth Saran's DEV Profile" height="30" width="30">
+</a> -->
