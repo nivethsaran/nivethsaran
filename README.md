@@ -16,11 +16,22 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi, I'm Niveth, your friendly developer bear 👋🏽💻🐻
+## Hi :wave:, I'm Niveth, your friendly developer bear :computer::bear:
 
+[![Linkedin Badge](https://img.shields.io/badge/-nivethsaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivethsaran/)](https://www.linkedin.com/in/kunalraghav/)  [![Twitter Badge](https://img.shields.io/badge/-@nivethsaran-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nivethsaran)](https://twitter.com/nivethsaran) [![Gmail Badge](https://img.shields.io/badge/-nivethsarandev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nivethsarandev@gmail.com)](mailto:nivethsarandev@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-nivethsaran-254c77?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nivethsaran)](https://t.me/nivethsaran)
+
+:mortar_board: **CS Undergraduate at Amrita Vishwa Vidyapeetham**
 <p align="center">
-<samp>I'm a software engineer who is passionate about developing android applications and competitive coding. Some technologies I enjoy working with include Java, Kotlin, ReactJS, Flutter, Dart. I also love data visualization and analytics.</samp>  
+<samp>I'm a software engineer who is passionate about developing android applications and competitive coding. Some technologies I enjoy working with include Java, Kotlin, ReactJS, Flutter, Dart.</samp>  
 </p>
+
+
+<!-- [![Niveth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivethsaran&show_icons=true&theme=radical)](https://github.com/nivethsaran) -->
+<!-- 
+[![Niveth's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=nivethsaran&show_icons=true&theme=radical)](https://github.com/nivethsaran) -->
+
+<!-- 
+[![Dev.to Badge](https://img.shields.io/badge/-nivethsaran-03a57a?style=flat-square&labelColor=000000&logo=Dev.to&link=https://dev.to/nivethsaran/)](https://dev.to/nivethsaran) -->
 <!-- <a href="https://dev.to/nivethsaran">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Niveth Saran's DEV Profile" height="30" width="30">
 </a> -->
