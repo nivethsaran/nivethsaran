@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi :wave:, I'm Niveth, your friendly developer bear :computer::bear:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nivethsaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivethsaran/)](https://www.linkedin.com/in/kunalraghav/)  [![Twitter Badge](https://img.shields.io/badge/-@nivethsaran-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nivethsaran)](https://twitter.com/nivethsaran) [![Gmail Badge](https://img.shields.io/badge/-nivethsarandev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nivethsarandev@gmail.com)](mailto:nivethsarandev@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-nivethsaran-254c77?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nivethsaran)](https://t.me/nivethsaran)
+[![Linkedin Badge](https://img.shields.io/badge/-nivethsaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivethsaran/)](https://www.linkedin.com/in/kunalraghav/)  [![Twitter Badge](https://img.shields.io/badge/-@nivethsaran-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nivethsaran)](https://twitter.com/nivethsaran) [![Gmail Badge](https://img.shields.io/badge/-nivethsarandev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nivethsarandev@gmail.com)](mailto:nivethsarandev@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-nivethsaran-254c77?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nivethsaran)](https://t.me/nivethsaran)
 
 ###:mortar_board: **CS Undergraduate at Amrita Vishwa Vidyapeetham**
 <p align="center">
