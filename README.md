@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning MVVM Architechture and Basics of React Web Dev
+<!-- - 🌱 I’m currently learning MVVM Architechture and Basics of React Web Dev -->
 <!-- - 👯 I’m looking to collaborate on Flutter -->
 <!-- 
 [![Niveth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivethsaran&show_icons=true&theme=radical)](https://github.com/nivethsaran) -->
