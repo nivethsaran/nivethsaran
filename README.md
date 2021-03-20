@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Gitlab Badge](https://img.shields.io/badge/-nivethsaran-yellow?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/nivethsaran)](https://gitlab.com/nivethsaran)
 
 ### :mortar_board: **CS Undergraduate at Amrita Vishwa Vidyapeetham**
+### :pushpin: **Technical Undergraduate Intern at Cisco System Inc.**
 <p align="center">
 <samp>I'm a software engineer who is passionate about developing android  applications and competitive coding. Some technologies I enjoy working with include Java, Kotlin, ReactJS, Flutter, Dart.</samp>  
 </p>
