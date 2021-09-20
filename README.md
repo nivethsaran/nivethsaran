@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### :mortar_board: **CS Undergraduate at Amrita Vishwa Vidyapeetham**
 ### :pushpin: **Software Engineer at Cisco System Inc.**
 <p align="center">
-<samp>I'm a software engineer who is passionate about developing android  applications and competitive coding. Some technologies I enjoy working with include Java, Kotlin, ReactJS, Flutter, Dart.</samp>  
+<samp>Backend Developer | Mobile Developer | Open Source Enthusiast.</samp>  
 </p>
 
 <!-- - 🔭 I’m currently working on ... -->
