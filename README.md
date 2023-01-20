@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Gitlab Badge](https://img.shields.io/badge/-nivethsaran-yellow?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/nivethsaran)](https://gitlab.com/nivethsaran)
 
 ### :mortar_board: **CS Undergraduate at Amrita Vishwa Vidyapeetham**
-### :pushpin: **Software Engineer at Cisco System Inc.**
+### :pushpin: **Software Engineer II at Cisco System Inc.**
 <p align="center">
 <samp>Backend Developer | Mobile Developer | Open Source Enthusiast.</samp>  
 </p>
